@@ -79,17 +79,7 @@ SUPABASE_KEY = "your-supabase-key"
 GROQ_API_KEY = "your-groq-api-key"
 ```
 
-4. Set up Supabase database schema:
-
-The application requires the following tables in your Supabase database:
-
-![database schema](https://raw.githubusercontent.com/harsha-egen/hia/main/public/db/schema.png)
-
-You can use the SQL script provided at `public/db/script.sql` <a href="https://www.github.com/harshhh28/hia/blob/main/public/db/script.sql">[link]</a> to set up the required database schema.
-
-(PS: You can turn off the email confimation on signup in Supabase settings -> signup -> email)
-
-5. Run the application:
+4. Run the application:
 
 ```bash
 streamlit run src\main.py
