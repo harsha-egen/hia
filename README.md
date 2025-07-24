@@ -20,7 +20,7 @@ AI Agent to analyze blood reports and provide detailed health insights.
 </p>
 
 <p align="center">
-  <a href="https://github.com/harshhh28/hia"><img src="https://raw.githubusercontent.com/harshhh28/hia/main/public/HIA_demo.gif" alt="Usage Demo"></a>
+  <a href="https://github.com/harsha-egen/hia"><img src="https://raw.githubusercontent.com/harshhh28/hia/main/public/HIA_demo.gif" alt="Usage Demo"></a>
 </p>
 
 ## 🌟 Features
